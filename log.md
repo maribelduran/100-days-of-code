@@ -2,7 +2,7 @@
 
 ### Day 1: January 3rd, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:  Styled twitch streamer statuses. Created a new meta div using vanilla js.
 
 **Thoughts:** Today was my first day doing the 100 Days of Code challenge and didn't realize that working on FCC algorithms did not count as time coding. So I pushed myself to work on my Twitch Streamers App. I am currently working on styling the Twitch users' statuses and streaming information. It is taking me a little longer to complete because I am doing this using vanilla js. 
 
