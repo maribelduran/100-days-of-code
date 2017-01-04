@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 3rd, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -10,6 +9,7 @@
 
 **Link to work:** [Twitch Streamers App](https://github.com/maribelduran/twitch_streamers)
 
+--To be deleted, but keeping for reference and ideas as I continue filling out log.
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
