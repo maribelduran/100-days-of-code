@@ -7,7 +7,13 @@
 **Thoughts:** Today was my first day doing the 100 Days of Code challenge and didn't realize that working on FCC algorithms did not count as time coding. So I pushed myself to work on my Twitch Streamers App. I am currently working on styling the Twitch users' statuses and streaming information. It is taking me a little longer to complete because I am doing this using vanilla js. 
 
 
-**Link to work:** [Twitch Streamers App](https://github.com/maribelduran/twitch_streamers)
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+
+
+
+
+
 
 --To be deleted, but keeping for reference and ideas as I continue filling out log.
 ### Day 0: February 30, 2016 (Example 2)
