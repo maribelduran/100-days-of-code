@@ -8,7 +8,10 @@
 
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
 **Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+
+
 
 
 
@@ -19,7 +22,7 @@
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**:  Styled twitch streamer status. Created a new meta div using vanilla js.
+**Today's Progress**: 
 
 **Thoughts**: Today is my first day with starting
 I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
