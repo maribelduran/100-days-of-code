@@ -23,3 +23,15 @@
 
 **Link(s) to work on codepen**: [Single Pens With Overlays](https://codepen.io/maribelduran/pen/qREZmw)
 
+
+
+
+### Day 3: January 5, 2017 
+
+**Today's Progress**: Attempted to make single pens responsive.
+
+**Thoughts**: Attempted to make the single pens responsive. However, adding flex display, is not allowing the width % to update as I want it to. Will look more into what display flex actually does.
+
+**Link to github:** [single-pens-with-overlay](https://github.com/maribelduran/single-pens-with-overlay)
+**Link(s) to work on codepen**: [Single Pens With Overlays](https://codepen.io/maribelduran/pen/qREZmw)
+
