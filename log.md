@@ -36,3 +36,16 @@
 
 **Link(s) to work on codepen**: [Single Pens With Overlays](https://codepen.io/maribelduran/pen/qREZmw)
 
+
+
+
+### Day 4: January 6, 2017 
+
+**Today's Progress**: Added wrapping to the flex container and made pens more mobile responsive.
+
+**Thoughts**: Added wrapping to the flex container. This fixed the issue I was having yesterday where the width % was not changing on different media widths. Single pens are now more mobile responsive.
+
+**Link to github:** [single-pens-with-overlay](https://github.com/maribelduran/single-pens-with-overlay)
+
+**Link(s) to work on codepen**: [Single Pens With Overlays](https://codepen.io/maribelduran/pen/qREZmw)
+
