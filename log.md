@@ -49,3 +49,19 @@
 
 **Link(s) to work on codepen**: [Single Pens With Overlays](https://codepen.io/maribelduran/pen/qREZmw)
 
+
+### Day 5: January 7, 2017 
+### Day 6: January 8, 2017 
+### Day 7: January 8, 2017 
+
+
+### Day 8: January 10, 2017 
+
+**Today's Progress**: Merged single-pen-overlay project to Twitch Streamers App. Each single_channel item now contains an overlay that informs what is streaming.
+
+**Thoughts**: My Twitch Streamers app is almost complete. Almost slacked today because I went to a Warriors Game, but managed to do an hour of coding. 
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+
