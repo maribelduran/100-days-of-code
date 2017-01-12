@@ -8,7 +8,6 @@
 
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
-
 **Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
 
 
