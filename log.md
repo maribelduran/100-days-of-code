@@ -51,6 +51,17 @@
 
 
 ### Day 5: January 7, 2017 
+
+**Today's Progress**: Experimented with different media queries for tablet and phone. Made pens more mobile responsive.
+
+**Thoughts**: Was able to get my two new media queries to work on desktop. However, when I checked the app on my mobile device, the pens widths were not changing. I then realized that I had not yet included the <meta> viewport inside the head element. The issue was resolved after declaring the meta viewport onto my page.
+
+**Link to github:** [single-pens-with-overlay](https://github.com/maribelduran/single-pens-with-overlay)
+
+**Link(s) to work on codepen**: [Single Pens With Overlays](https://codepen.io/maribelduran/pen/qREZmw)
+
+
+
 ### Day 6: January 8, 2017 
 ### Day 7: January 8, 2017 
 
