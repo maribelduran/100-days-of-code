@@ -8,6 +8,7 @@
 
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
 **Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
 
 
@@ -62,8 +63,26 @@
 
 
 ### Day 6: January 8, 2017 
-### Day 7: January 8, 2017 
 
+**Today's Progress**: Worked on styling Single-Pens-With-Overlay project.
+
+**Thoughts**: Added an anchor tag to each single_channel item. Removed the need of cover-link class. Styled elements in single_channel-header.
+
+**Link to github:** [single-pens-with-overlay](https://github.com/maribelduran/single-pens-with-overlay)
+
+**Link(s) to work on codepen**: [Single Pens With Overlays](https://codepen.io/maribelduran/pen/qREZmw)
+
+
+
+### Day 7: January 9, 2017 
+
+**Today's Progress**:  Moved back to my Twitch Streamers app and continued styling.
+
+**Thoughts**: Continued styling my Twitch Streamers app. However, I worked on this through codepen and didn't get a chance to copy my changes over to my local folder (thus not commiting to github). This is why I should start getting used to my code editor and try to move away from codepen. Additionally, I was able to attend my first meetup of the year @ HackReactor where we had a JS Study Group session on JS algorithms. Overall, a very code-productive day! 
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
 
 ### Day 8: January 10, 2017 
 
