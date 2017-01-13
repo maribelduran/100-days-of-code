@@ -109,4 +109,19 @@
 **Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
 
 
+### Day 10: January 11, 2017 
+
+**Today's Progress**: Continued styling Twitch Streamers app. Added bottom border color to the cover-overlays based on the user being online (green) or offline (red).
+
+
+**Thoughts**: I love styling this application, but will give it a break so I can start working on a new project.
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+
+
+
+
+
 
