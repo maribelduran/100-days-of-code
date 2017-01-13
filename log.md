@@ -84,6 +84,7 @@
 
 **Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
 
+
 ### Day 8: January 10, 2017 
 
 **Today's Progress**: Merged single-pen-overlay project to Twitch Streamers App. Each single_channel item now contains an overlay that informs what is streaming.
@@ -93,4 +94,19 @@
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
 **Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+
+
+
+### Day 9: January 11, 2017 
+
+**Today's Progress**: Removed view.filterUsers from my Twitch Streamers App. Instead filtered users inside the button eventListeners before passing the users array to view.displayUsers().
+
+
+**Thoughts**: Figured a way to remove a method and was able to use the filter method to display users.
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+
+
 
