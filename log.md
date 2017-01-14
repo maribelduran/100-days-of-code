@@ -109,12 +109,25 @@
 **Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
 
 
-### Day 10: January 11, 2017 
+### Day 10: January 12, 2017 
 
 **Today's Progress**: Continued styling Twitch Streamers app. Added bottom border color to the cover-overlays based on the user being online (green) or offline (red).
 
 
 **Thoughts**: I love styling this application, but will give it a break so I can start working on a new project.
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+
+
+
+### Day 11: January 13, 2017 
+
+**Today's Progress**: Continued Twitch Streamers App. Added a sortUsers() function  that orders users by alphabetical order. Moved nav buttons to header.
+
+
+**Thoughts**: Before sorting the users in alphabetical order, the single_channel list was displaying randomly whenever the app was refreshed. Also moved the buttons outside the purple well so that users can distinguish the buttons between the single_channels pens.
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
