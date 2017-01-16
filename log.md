@@ -134,6 +134,35 @@
 **Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
 
 
+### Day 12: January 14, 2017 
+
+**Today's Progress**: Continued Twitch Streamers App. Moved the channel preview image into a div. This removed the unecessary border whenever a channel does not have a preview image.
+
+
+**Thoughts**: Through this issue/fix, I found out that an img element will always have a border and very difficult to get rid of. So instead of having an img with empty src string, I created a div that holds the image that way I can control the border styling whenever a twitch user does not have a preview image.
+
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+
+
+
+### Day 13: January 15, 2017 
+
+**Today's Progress**: First time I did not get a chance to code for an hour :(
+
+
+**Thoughts**: Spent the day traveling back home after our Tahoe vacation. Will make up for it soon.
+
+
+
+
+
+
+
+
+
 
 
 
