@@ -156,6 +156,28 @@
 **Thoughts**: Spent the day traveling back home after our Tahoe vacation. Will make up for it soon.
 
 
+### Day 14: January 16, 2017 
+
+**Today's Progress**: Worked on styling nav buttons based on the user's current status.
+
+**Thoughts**: The border color of the buttons change fine in Chrome. However, they are not showing up properly on mobile. 
+
+
+
+### Day 15: January 17, 2017 
+
+**Today's Progress**: Still struggling with getting button:focus border color to work on mobile, Firefox, and Safari.
+
+**Thoughts**: I feel like I need more than one hour to figure this issue. However, I started moving this week and it's been hard to put more than one hour of coding.
+
+### Day 16: January 18, 2017 
+
+**Today's Progress**: Reviewed Twitch Streamer's app code. Optimized functions in my view class.
+
+**Thoughts**: I am happy with how my code is looking. Need to continue refactoring the displayUsers method. 
+
+
+
 
 
 
