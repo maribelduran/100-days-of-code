@@ -177,6 +177,16 @@
 
 **Thoughts**: I am happy with how my code is looking. Need to continue refactoring the displayUsers method. 
 
+### Day 17: January 19, 2017 
+
+**Today's Progress**: Fixed button's active color styling through javascript instead of css. Added a footer. Also made up for my hour missed on Day 13.
+
+**Thoughts**: Was having difficulties figuring out how to style the buttons active state through css so I ended up doing it through javascript.
+
+
+
+
+
 
 
 
