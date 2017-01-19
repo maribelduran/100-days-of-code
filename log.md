@@ -160,7 +160,7 @@
 
 **Today's Progress**: Worked on styling nav buttons based on the user's current status.
 
-**Thoughts**: The border color of the buttons change fine in Chrome. However, they are not showing up properly on mobile. 
+**Thoughts**: The border color of the buttons change fine in Chrome. However, they are not showing up properly on mobile. I started moving this week and it's been hard to put more than one hour of coding.
 
 
 
@@ -168,7 +168,8 @@
 
 **Today's Progress**: Still struggling with getting button:focus border color to work on mobile, Firefox, and Safari.
 
-**Thoughts**: I feel like I need more than one hour to figure this issue. However, I started moving this week and it's been hard to put more than one hour of coding.
+**Thoughts**: I feel like I need more than one hour to figure this issue. Moving and cleaning the new house has been rough, but still managing to stare at code for an hour.
+
 
 ### Day 16: January 18, 2017 
 
