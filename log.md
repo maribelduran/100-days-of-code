@@ -177,11 +177,27 @@
 
 **Thoughts**: I am happy with how my code is looking. Need to continue refactoring the displayUsers method. 
 
+
 ### Day 17: January 19, 2017 
 
 **Today's Progress**: Fixed button's active color styling through javascript instead of css. Added a footer. Also made up for my hour missed on Day 13.
 
 **Thoughts**: Was having difficulties figuring out how to style the buttons active state through css so I ended up doing it through javascript.
+
+
+### Day 18: January 20, 2017 
+
+**Today's Progress**: Made project code more readable. Moved button color style updates from setupEventListeners method into a new updateActiveButton method in the view object.
+
+**Thoughts**: Realized I could make my project more readable by adding new view methods. This allows someone to see what all happens when a button is clicked.
+
+
+### Day 19: January 21, 2017 
+
+**Today's Progress**: Continued making project code more readable. Divdided displayUsers methods into more view methods that create html elements. Finished updating javascript code and was able to share it with twitter friends!
+
+**Thoughts**: Originally the view object had a displayUsers method that looped through each user and created the necessary html elements and classes for each user. However, I realized the method was sloppy and repetatitve. So I decided to divide the tasks into smallers view methods. I created a view.createAnchor, view.createPreviewImg, view.createOverlay, and view.createInfoDiv method that allows someone to see what exactly is being performed within the view.displayUsers method.
+
 
 
 
