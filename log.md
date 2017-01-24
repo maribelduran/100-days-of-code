@@ -6,11 +6,9 @@
 
 **Thoughts:** Today was my first day doing the 100 Days of Code challenge and didn't realize that working on FCC algorithms did not count as time coding. So I pushed myself to work on my Twitch Streamers App. I am currently working on styling the Twitch users' statuses and streaming information. It is taking me a little longer to complete because I am doing this using vanilla js. 
 
-
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
-**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
-
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
 
 
 
@@ -82,7 +80,7 @@
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
-**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
 
 
 ### Day 8: January 10, 2017 
@@ -93,7 +91,7 @@
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
-**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
 
 
 
@@ -106,7 +104,7 @@
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
-**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
 
 
 ### Day 10: January 12, 2017 
@@ -118,7 +116,7 @@
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
-**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
 
 
 
@@ -126,12 +124,12 @@
 
 **Today's Progress**: Continued Twitch Streamers App. Added a sortUsers() function  that orders users by alphabetical order. Moved nav buttons to header.
 
-
 **Thoughts**: Before sorting the users in alphabetical order, the single_channel list was displaying randomly whenever the app was refreshed. Also moved the buttons outside the purple well so that users can distinguish the buttons between the single_channels pens.
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
-**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
+
 
 
 ### Day 12: January 14, 2017 
@@ -144,7 +142,7 @@
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
-**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/LbvpOK/)
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
 
 
 
@@ -162,6 +160,10 @@
 
 **Thoughts**: The border color of the buttons change fine in Chrome. However, they are not showing up properly on mobile. I started moving this week and it's been hard to put more than one hour of coding.
 
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
+
 
 
 ### Day 15: January 17, 2017 
@@ -170,12 +172,24 @@
 
 **Thoughts**: I feel like I need more than one hour to figure this issue. Moving and cleaning the new house has been rough, but still managing to stare at code for an hour.
 
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
+
+
+
 
 ### Day 16: January 18, 2017 
 
 **Today's Progress**: Reviewed Twitch Streamer's app code. Optimized functions in my view class.
 
 **Thoughts**: I am happy with how my code is looking. Need to continue refactoring the displayUsers method. 
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
+
+
 
 
 ### Day 17: January 19, 2017 
@@ -184,12 +198,22 @@
 
 **Thoughts**: Was having difficulties figuring out how to style the buttons active state through css so I ended up doing it through javascript.
 
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
+
+
 
 ### Day 18: January 20, 2017 
 
 **Today's Progress**: Made project code more readable. Moved button color style updates from setupEventListeners method into a new updateActiveButton method in the view object.
 
 **Thoughts**: Realized I could make my project more readable by adding new view methods. This allows someone to see what all happens when a button is clicked.
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
+
 
 
 ### Day 19: January 21, 2017 
@@ -198,13 +222,22 @@
 
 **Thoughts**: Originally the view object had a displayUsers method that looped through each user and created the necessary html elements and classes for each user. However, I realized the method was sloppy and repetatitve. So I decided to divide the tasks into smallers view methods. I created a view.createAnchor, view.createPreviewImg, view.createOverlay, and view.createInfoDiv method that allows someone to see what exactly is being performed within the view.displayUsers method.
 
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
+
+
 
 
 ### Day 20: January 22, 2017 
 
-**Today's Progress**: Fixed issue where footer was not showing on mobile or large desktop devices. Also fixed issue where footer was showing in the middle of the page because the rest of the page was still loading.
+**Today's Progress**: Fixed issue where footer was not showing properly on mobile or large desktop devices. Also fixed issue where footer was showing in the middle of the page because the rest of the page was still loading.
 
 **Thoughts**: Footer was not showing on mobile device because I had footer's parent div min width of 100%. Removed this css declaration and this resolved the issue. Then I noticed that the footer was not staying at the bottom of desktop devices so I increased the footer's parent div padding-bottom from 150px to 200px. Finally, realized that the footer was loading first and sometimes briefly showing in the middle of the page because the rest of the footer's parent div data was still loading. So i create a showFooter method that will run after the container (footer's parent div) data has loaded onto the page.
+
+**Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
+
+**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
 
 
 
