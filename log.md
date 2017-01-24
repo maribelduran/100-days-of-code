@@ -200,6 +200,14 @@
 
 
 
+### Day 20: January 22, 2017 
+
+**Today's Progress**: Fixed issue where footer was not showing on mobile or large desktop devices. Also fixed issue where footer was showing in the middle of the page because the rest of the page was still loading.
+
+**Thoughts**: Footer was not showing on mobile device because I had footer's parent div min width of 100%. Removed this css declaration and this resolved the issue. Then I noticed that the footer was not staying at the bottom of desktop devices so I increased the footer's parent div padding-bottom from 150px to 200px. Finally, realized that the footer was loading first and sometimes briefly showing in the middle of the page because the rest of the footer's parent div data was still loading. So i create a showFooter method that will run after the container (footer's parent div) data has loaded onto the page.
+
+
+
 
 
 
