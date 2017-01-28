@@ -248,6 +248,18 @@
 
 
 
+### Day 22: January 23, 2017 
+
+**Today's Progress**: Started a new project! Building a Javascript Calculator for FCC. Began implementing the model layer.
+
+**Thoughts**: Today was the first project that I started locally without having to use codepen! I started implementing my model layer which I created a controller object for. I am so excited to continue this project!
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+
+
 
 
 
