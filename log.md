@@ -237,7 +237,14 @@
 
 **Link to github:** [Twitch Streamers](https://github.com/maribelduran/twitch_streamers)
 
-**Link to codepen:** [Twitch Streamers App](https://codepen.io/maribelduran/full/bgexzL)
+
+
+
+### Day 21: January 23, 2017 
+
+**Today's Progress**: Did not get to code. Moving and being call for 8 days straight finally caught up to me :/ Will make up for the hour soon! 
+
+**Thoughts**: I will be making up for this hour soon :) No worries :)
 
 
 
