@@ -248,7 +248,7 @@
 
 
 
-### Day 22: January 23, 2017 
+### Day 22: January 24, 2017 
 
 **Today's Progress**: Started a new project! Building a Javascript Calculator for FCC. Began implementing the model layer.
 
@@ -257,6 +257,74 @@
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
+
+### Day 23: January 25, 2017 
+
+**Today's Progress**: Was able to run my code locally! Continued on model layer and started view layer.
+
+**Thoughts**: Did not have wifi on the airplane, but realized I could run my code locally! I created index.html and set up all the necessary buttons. Today felt like a really successful day! 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 24: January 26, 2017 
+
+**Today's Progress**: Did not get to code today! Wok up really early and was on to the go exploring Vancouver's nature. Will make up for it soon! Currently two hours that I need to make up,
+
+**Thoughts**: Would have been a good idea to wake up early, but didn't get to Vancouver until 3am and had to wake up at 9am. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 25: January 27, 2017 
+
+**Today's Progress**: Created event listeners for buttons 1-9 and started the controller layer.
+
+**Thoughts**: Setup my controller object to call calculator methods and view methods. Started wondering whether the controller should be the place to validate user input. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 26: January 28, 2017 
+
+**Today's Progress**: Had trouble implementing input validations for some buttons. Hoping tomorrow will be a more productive day. 
+
+**Thoughts**: Updated a few calculator methods Not sure if I will be keeping the methods this way, but it is a start.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 27: January 29, 2017 
+
+**Today's Progress**: Decided to implement input validations in the model layer. Worked on adding functionality for  0-9 button inputs.
+
+**Thoughts**: Currently buttons 0-9 are able to create numbers. Will begin implementing functionality for operator buttons.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 28: January 30, 2017 
+
+**Today's Progress**: Continued Javascript Calculator: Added functionality to my addition button. However, this broke functionality for buttons 0-9. 
+
+**Thoughts**: Will continue working on addition button only to make sure the rest of the operators can use the same function.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 29: January 31, 2017 
+
+**Today's Progress**: Updated functionality for buttons C (ClearEntry) and AC (AllClear). Continued working on addition button functionality.
+
+**Thoughts**: Having some trouble on how to effectively check when the currentEntry is empty. I think I am going to keep the currentEntry as "0" when no entries have been entered. This means that the calculator will not be able to add "0". Check other calculators and it looks like adding "0" is not necessary.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
 
