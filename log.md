@@ -328,6 +328,30 @@
 
 
 
+### Day 30: February 1, 2017 
+
+**Today's Progress**:  Calculator now accepts inputs for decimal, and operators (+,-,/, x). Input values becomes buggy when I use clear button and then try to add more values to the current math operation.
+
+**Thoughts**: Currently working on validating input values for all my buttons in the updateCurrentEntry method, but will eventually split the values into different methods. The code is also very repetitive, but will make it more readable once I get to correctly generat the current operation string. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 31: February 2, 2017 
+
+**Today's Progress**:  Fixed clearEntry method to only remove current entry from the current operation string.
+
+**Thoughts**: Before, every time the Clear (C) button was pressed, it would remove an entry from the current operator string so eventually you could clear the whole string. Now, it will only remove the current entry. Have alot of bugs to fix, but have noted and will work on each of them more tomorrow.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+
+
+
+
 
 
 
