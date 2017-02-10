@@ -349,6 +349,78 @@
 
 
 
+### Day 32: February 3, 2017 
+
+**Today's Progress**: Fixed bug that wasn't allowing me to switch operators. Before when the current active entry was an operator value, the code would not allow to switch to a different operator.
+
+**Thoughts**: Fixed the 🐜 that wasn't letting my calculator switch operator after one was selected. A few more 🐜 to go. Was super busy today, but managed to keep up with the coding before the vacation trip crazyness starts tomorrow.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 33: February 4, 2017 
+
+**Today's Progress**: Still working on fixing value entries for JS Calculator.Can't wait to actually start calculating the math operations:) 
+
+**Thoughts**: Coded for about 2 hours tonight during my flight to Hawaii! It's going to be tough to an hour in everyday during my week here, but will do my best to not fall behind!
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+
+### Day 34: February 5, 2017 
+
+**Today's Progress**: JS Calculator App does not allow digit or decimal inputs after an operator was just cleared. 
+
+**Thoughts**: This was a big bug to fix and was able to do this by adding a justClearedOperator flag. Will be adding a similar flag to able to tell when a number entry has just been cleared.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 35: February 6, 2017 
+
+**Today's Progress**: Calculator now accepts an operator entry after an operator was just cleared. Keep running into logical errors.
+
+**Thoughts**: I keep running into small logical errors with input values. But really want to be able to verify that input values are free of errors, before computing the math operations.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+
+### Day 36: February 7, 2017 
+
+**Today's Progress**: Didn't get to code:( Woke up @ 4am to catch the Haleakala Sunrise and was out all day. Will make up for it soon! 
+
+**Thoughts**: I really tried to get an hour in, but I really needed this day to be able to destress and enjoy every minute of my vacation. I know that I will be able to make up for this hour on the flight back home this weekend. 
+
+
+
+
+### Day 37: February 8, 2017 
+
+**Today's Progress**: Continued working on Calculator JS App. Things fixed were nothing too exciting. 
+
+**Thoughts**: Still running into issues with having current Entry be set to "0" when we clear an entry. But hoping to figure a better way to show that a value was just cleared. Maybe I can try setting another flag or use the two flags justClearedOperation and justClearedNumber.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 38: February 9, 2017 
+
+**Today's Progress**: JS Calculator App does not allow operator inputs after an number entry has just been cleared.
+
+**Thoughts**: This was really easy to fix after adding the justClearedNumber flag. Now I just have two small bugs to fix that deal with not being able to add "0" after an entry has just been cleared. Also cannot clear a "0" entry."
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+
 
 
 
