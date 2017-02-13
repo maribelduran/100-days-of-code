@@ -420,6 +420,26 @@
 
 
 
+### Day 39: February 10, 2017 
+
+**Today's Progress**: Can correctly chain math operations together. Will finally be able to work on the equals button functionality.
+
+**Thoughts**: Fixed the last few input validations. Can clear a "0" entry and add "0" after a number entry has just been cleared. I think I am going to run into a few more inputs that I will have to validate, but will be moving on to adding functionality to the equals button.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 40: February 11, 2017 
+
+**Today's Progress**: Was traveling all day and was only to make up for yesterday's hour. Will make up for this hour soon!
+
+**Thoughts**: I am really proud of myself for trying my best in not getting behind with the 100 Days Of Code Challenge while on vacation. I will be putting alot of effort into the rest of my front end dev projects in the next two months as well as my personal portfolio!
+
+
+
+
+
 
 
 
