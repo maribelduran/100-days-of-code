@@ -438,6 +438,27 @@
 
 
 
+### Day 41: February 12, 2017 
+
+**Today's Progress**: Continued working on JS Calculator. Equals button is somewhat functional.
+
+**Thoughts** Equals button knows whether operator expresion is valid. Started investigating whether I should create my own functions to add, multiply, subtract, divide, or if I should use built in eval() function.
+
+
+### Day 42: February 13, 2017 
+
+**Today's Progress**: JS Calculator equals button is now functional! Steered away from using eval() and isntead used th math.js library.
+
+**Thoughts** Read that eval() is slow and should not be used to calculate expressions. I decided to go with a library that already calculates string expressions to save some time, but to also get comfortable with using other libraries. 
+
+
+
+
+
+
+
+
+
 
 
 
