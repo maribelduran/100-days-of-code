@@ -456,6 +456,25 @@
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
+### Day 43: February 14, 2017 
+
+**Today's Progress**: Completed functionality for JS Calculator equals button. 
+
+**Thoughts** My equals button is fully functional. I had to add justCalculated variable to help with more input validations that i have to check for operators, decimals, and numbers.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 44: February 15, 2017 
+
+**Today's Progress**: Updated input validation checks for operator, number, and decimal entries. 
+
+**Thoughts** Input validation is almost complete. Only thing to fix is vaildating decimal entries. Wish I had some time to set up some until testing. Really hoping to learn this in Watch and Code so I can come back and test my apps. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
 
 
 
