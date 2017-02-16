@@ -444,6 +444,8 @@
 
 **Thoughts** Equals button knows whether operator expresion is valid. Started investigating whether I should create my own functions to add, multiply, subtract, divide, or if I should use built in eval() function.
 
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
 
 ### Day 42: February 13, 2017 
 
@@ -451,7 +453,7 @@
 
 **Thoughts** Read that eval() is slow and should not be used to calculate expressions. I decided to go with a library that already calculates string expressions to save some time, but to also get comfortable with using other libraries. 
 
-
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
 
