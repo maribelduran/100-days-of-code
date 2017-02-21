@@ -476,6 +476,54 @@
 
 
 
+### Day 45: February 16, 2017 
+
+**Today's Progress**: Made up for lost hours from Day 36 and 40! Continued working on JS Calculator App model layer.
+
+**Thoughts** Stayed in on Thursday night and made up for the lost hours that I missed last week. I was so tired and with no energy, but I just kept coding. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 46: February 17, 2017 
+
+**Today's Progress**: Continued working on model view for JS Calculator App. Trying to update how to update currentOperation string value.
+
+**Thoughts** Keep seeing slight logical errors for inputs. Trying to remove previousEntry array that is no longer needed.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 47: February 18, 2017 
+
+**Today's Progress**: Removed previousEntry variable from calculator object in JS Calculator App. No longer needed.
+
+**Thoughts** Removed previousEntry array which was used to generate the currentOperation string. This helped clean up the code.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 48: February 19, 2017 
+
+**Today's Progress**: Started refactoring code! Current code is a bit sloppy.
+
+**Thoughts** My calculator is now fully functional. Want to clean up code before I start designing the calculator. Code can be alot more shorter. Could potentially use Jquery to help with this.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 49: February 20, 2017 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
 
 
 
