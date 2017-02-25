@@ -516,12 +516,55 @@
 
 ### Day 49: February 20, 2017 
 
-**Today's Progress**: 
+**Today's Progress**: Continued refactoring calculator.updatEntry method for JS Calculator App.
 
-**Thoughts** 
+**Thoughts**: updateEntry is not fully functional as well as more readable.
 
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
+
+
+### Day 50: February 21, 2017 
+
+**Today's Progress**: Refactored view.addEventListers method for JS Calculator App.
+
+**Thoughts**: Created an button object that contains button id as key and its entry input as the value. This allowed me to loop through each button and create event listeners for each. 
+
+
+### Day 51: February 22, 2017 
+
+**Today's Progress**: Started styling Calculator App! Feels good to use Bootstrap again after not using a framework on my last two projects 
+
+**Thoughts**: Created row divs to organize buttons. Also started playing around with the boostrap columns. Forgot how they work since its been a while that I've used them. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 52: February 23, 2017 
+
+**Today's Progress**: Continued messing with boostrap rows and columns. So tired today.
+
+**Thoughts**: Played around a bit styling with boostrap, but didn't get too far.Spent my free time running to SF to attend a Prototypal Inheritance JS lecture :)
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 53: February 24, 2017 
+
+**Today's Progress**: Continued styling JS Calculator App. Decided to not use boostrap because I don't need the rows to be responsive.
+
+**Thoughts**: Realized that I didn't need boostrap for this project because the button rows are not going to collapse for any device width. Used some of my css code from Twitch Streamers to align the buttons properly.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 54: February 25, 2017 
+
+**Today's Progress**: Created a good css layout. All I have to do is size my buttons, and choose out some nice colors.
+
+**Thoughts**: Happy to see that my calculator app design is starting to look the way I want it. Hoping to get pretty far with this tomorrow during the FCC meetup.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
 
