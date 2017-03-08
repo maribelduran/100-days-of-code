@@ -567,6 +567,102 @@
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
+### Day 55: February 26, 2017 
+
+**Today's Progress**: Attended an FCC Meetup and coded away on a beautiful Sunday afternoon. Met some pretty cool FCC campers and continued styling app! 
+
+**Thoughts**: This morning I woke up and drove to Oakland for an FCC Meetup. Had to stand outside in the cold becuase the coffee shop was a bit full. Nonetheless, it was an amazing experience. There was a pregnant lady learning how to code and then had a guy who owned a startup. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 56: February 27, 2017 
+
+**Today's Progress**: Found some cools icons for my C and AC buttons. CSS can be pretty addicting 
+
+**Thoughts**: Downloaded icons into my images folder. Calculator is looking very clean!
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 57: February 28, 2017 
+
+**Today's Progress**: Added a ripple click effect on buttons. Decided I want to change the colors I originally chose.
+
+**Thoughts**: Downloaded a ripple effect from github. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 58: March 1, 2017 
+
+**Today's Progress**: Published my JS Calc App to Github pages! First time completing  a project without CodePen.
+
+**Thoughts**: This is another great advancement for me. Starting to develop like a real developer!
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+
+### Day 59: March 2, 2017 
+
+**Today's Progress**: Added media queries to make Calc App mobile responsive.  
+
+**Thoughts**: ...
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 60: March 3, 2017 
+
+**Today's Progress**: Added new % button and worked on its functionality.
+
+**Thoughts**: ...
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+
+### Day 61: March 4, 2017 
+
+**Today's Progress**: Didn't get a chance to work on my Calc App. Spent my Saturday afternoon at Rithm's School JavaScript: The Tricky Parts Meetup.
+
+**Thoughts**: ...
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 62: March 5, 2017 
+
+**Today's Progress**: Worked on creating a digit limit. Display screen is currently overflowing in my Calc App.
+
+**Thoughts**: ...
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 63: March 6, 2017 (mon)
+
+**Today's Progress**: Stuck on creating a digit limit. Code started breaking many places due to this.
+
+**Thoughts**: ...
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 65: March 7, 2017 (tue)
+
+**Today's Progress**: Choose to display a max of 11 characters. Display value will have a precision of 9 decimal places.
+
+**Thoughts**: ...
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
 
 
 
