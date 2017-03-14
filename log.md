@@ -603,7 +603,7 @@
 
 **Thoughts**: This is another great advancement for me. Starting to develop like a real developer!
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+**Link to github:** [Javascript Caculator](https://maribelduran.github.io/javascript-calculator/)
 
 
 
@@ -612,7 +612,7 @@
 
 **Today's Progress**: Added media queries to make Calc App mobile responsive.  
 
-**Thoughts**: ...
+**Thoughts**: Added width change for landscape orientation for mobile devices. This might be a minor change, but want my apps to be user friendly.          
 
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
@@ -621,7 +621,7 @@
 
 **Today's Progress**: Added new % button and worked on its functionality.
 
-**Thoughts**: ...
+**Thoughts**: Really wanted to get the percent functionality into this project. It was a little more tedious than the other operators, but was able to come up with a fair use case.
 
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
@@ -631,61 +631,87 @@
 
 **Today's Progress**: Didn't get a chance to work on my Calc App. Spent my Saturday afternoon at Rithm's School JavaScript: The Tricky Parts Meetup.
 
-**Thoughts**: ...
+**Thoughts**: Got home after spending 6 hours at Rithm's School The Tricky Parts Meetup. Then I got home and cleaned up everything in the house so that I could come back from Ohio with no more things to do around the house. Overall still a very productive programming day. We learned about closures, the heap, const,callstack, assign(), scope, destructoring. I haven't dived into ES2016 yet, but a great introduction.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
 ### Day 62: March 5, 2017 
 
 **Today's Progress**: Worked on creating a digit limit. Display screen is currently overflowing in my Calc App.
 
-**Thoughts**: ...
+**Thoughts**: Wanted a way to limit the amount of digits a user can enter. I started experimenting on how many digits could be inputted before overflow occured on the entry screen.
 
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
-### Day 63: March 6, 2017 (mon)
+### Day 63: March 6, 2017
 
 **Today's Progress**: Stuck on creating a digit limit. Code started breaking many places due to this.
 
-**Thoughts**: ...
+**Thoughts**: I was having a hard time deciding where I was supposed to check the number of digit values. I kept going back in forth between the view and controller object. Ended up leavig it in the view layer.
 
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
-### Day 65: March 7, 2017 (tue)
+### Day 64: March 7, 2017
 
-**Today's Progress**: Choose to display a max of 11 characters. Display value will have a precision of 9 decimal places.
+**Today's Progress**: Chose to display a max of 11 characters. Display value will have a precision of 9 decimal places.
 
-**Thoughts**: ...
+**Thoughts**: Chose to display a max of 11 characters. This was the largest number of characters before the entry screen started overflowing. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 65: March 8, 2017
+
+**Today's Progress**:  Fixed overflow on large screen display, but not working on mobile. Fixed by keeping the well div one size.
+
+**Thoughts**: Previously, I was decreasing the width of the well by 20px on mobile resolutions. So the overflow was happening before the 11 digits. Once I removed the width resize, the overflow was gone.
 
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
 
+### Day 66: March 9, 2017
+
+**Today's Progress**: Worked all night and then traveled all day to get to Ohio. Will make up for the hour soon!
+
+**Thoughts**: This was one of the busiest days of the year so far! After having worked until 5:30AM, I went straight to the airport and had two connecting flights to Ohio. By the time I got home, it was 6pm! I was so tired!
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 67: March 10, 2017
+
+**Today's Progress**: Tried to fix overflow of operation string. Got stuck so working on adding footer.
+
+**Thoughts**: Tried to find the max number of characters before the Operation value started overflowing from its div. Realized that characters takes up different amout of space. Worked on adding a footer instead.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 68: March 11, 2017
+
+**Today's Progress**: Again stuck on operation string. Was in West Viriginia visiting Kevin, so I only worked on this for about 10 minutes.
+
+**Thoughts**: Commited to git and pushed to github. Tested that my work looked good on mobile phone.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
 
+### Day 69: March 12, 2017
+
+**Today's Progress**: Figured out to overcome overflow in the operation screen. FLOAT RIGHT worked! 
+
+**Thoughts**: Updated the operation string and entry screen values to be span instead of heading elements. This allowed me to increase the size of the font size without it changing it's div size. I looked a Google's calculator to find the clue that I could use FLOAT RIGHT to accomplish what I've been looking for!
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
 
 
+### Day 70: March 13, 2017
 
+**Today's Progress**: Cleaned up code and manually performed more tests on mobile phone. Finally complete woo!!
+**Thoughts**: ...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
