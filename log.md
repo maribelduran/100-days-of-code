@@ -712,6 +712,22 @@
 ### Day 70: March 13, 2017
 
 **Today's Progress**: Cleaned up code and manually performed more tests on mobile phone. Finally complete woo!!
-**Thoughts**: ...
+**Thoughts**: I was trying to add a jquery shake effect to my entry screen, but figured i'd put this project to rest for now. I am so happy on both the UI and functionality of the calculator. The code can definitely use a good clean up, but hopefully with more experience I can come back and make it more readable and maintainable. Time to Celebrate!
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+
+
+### Day 71: March 14, 2017
+
+**Today's Progress**: Started the Pomodoro Timer App Project!
+**Thoughts**: Started looking into what the functionality of the pomodoro app and the use cases that I will be using. Created both a Trello project and Pinterest board to set/get ideas.
+
+
+### Day 72: March 15, 2017
+
+**Today's Progress**: Worked on the model layer of my Pomodoro Timer App.
+**Thoughts**: Now that i have a better idea of what the functionality for this app, I ....
+
+
 
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
