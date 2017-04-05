@@ -722,12 +722,143 @@
 **Today's Progress**: Started the Pomodoro Timer App Project!
 **Thoughts**: Started looking into what the functionality of the pomodoro app and the use cases that I will be using. Created both a Trello project and Pinterest board to set/get ideas.
 
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
 
 ### Day 72: March 15, 2017
 
 **Today's Progress**: Worked on the model layer of my Pomodoro Timer App.
-**Thoughts**: Now that i have a better idea of what the functionality for this app, I ....
+**Thoughts**: Now that i have a better idea of what the functionality for this app, I created a timer object that contains the basic data needed. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
 
 
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/javascript-calculator)
+### Day 73: March 16, 2017
+
+**Today's Progress**:Continued working on the model layer for my Pomodoro Timer App. Learning about the setInterval function 
+
+**Thoughts**: Started figuring out how the setInterval function works. Looks like I will need to keep a record of the returne ID in order to stop the function.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 74: March 17, 2017
+
+**Today's Progress**: Moved setInterval function from my model layer to the controller layer.
+
+**Thoughts**: Realized that setInterval should be called by the controller so that it could control when to stop the timer. The model should only keep the ID for the returned setInterval value. This helped me realize the power of the controller and to try to keep consistency between my projects.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 75: March 18, 2017
+
+**Today's Progress**: Continued working on the controller for my Pomodoro Timer. Learned a bit about JS prototype and attended an FCC Meetup.
+
+**Thoughts**: Attended an FCC Meetup to code along other FCC members. I continued testing my controller.startTimer and controller.stopTimer which call setInterval() and clearInterval(), respectively. Learned more about JS prototypes because I realized that I needed to different Timers, but both having similar data types. That's when I realized I needed to use a constructor and add methods through the object's prototype. This was a huge discovery for me! Everything that I have been learning is starting to come together and make more sense :)
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 76: March 19, 2017
+
+**Today's Progress**: Continued working on controller for Pomodoro Timer. Having some difficulties figuring out where to create new Break and Session timers.
+
+**Thoughts**: Had to decide if I wanted to create the new Break and Session timer objects after the button Start has been pressed or as soon as the application started. I decided to create both timers as soon as the application started and modify any changes the users made to the timer's properties.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 77: March 20, 2017
+
+**Today's Progress**: Worked on buttons that allow customizing session and break length.
+
+**Thoughts**: Created buttons that would decrease and or increase both the Session and Break lengths. This will be a moved to a popup menu when the Settings button is clicked. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 78: March 21, 2017
+
+**Today's Progress**: Struggling on how to design my Pomodoro Timer App, but continued adding ideas to the Pinterest board. 
+
+**Thoughts**: Continued working a bit on the functionailty because I got stuck on the design aspect of the project.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 79: March 22, 2017
+
+**Today's Progress**: Still struggling on the design aspect of my  Pomodoro Timer App :/ Again, scrolled through my Pinterest board to try to get enlightened. I think I need some inspiration. 
+
+**Thoughts**: Hopefully going on vacation to a new place will help :)
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 80: March 23, 2017
+
+**Today's Progress**: Added a counter for sessions completed on my Pomodoro App.
+
+**Thoughts**: Wanted a way for the user to see how many Sessions were completed even though that wasn't part of the use case. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 81: March 24, 2017
+
+**Today's Progress**: Fixed counter for sessions completd and reset button functionality.
+
+**Thoughts**: Counter for sessions completed was not updating properly, but fixed by consoling out the actual element. Fixed reset button functionality to set the counter for sessions completed back to 0.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 82: March 25, 2017
+
+**Today's Progress**: Made code more readable. And learned more about prototypal inheritance because I realized I could be using prototypes 
+
+**Thoughts**: Still having a little road block on the design aspect of the project, but I figured to could clean up my code.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 83: March 26, 2017
+
+**Today's Progress**: Did not get to code. Got sick! :(
+
+**Thoughts**: Hoping to make up for this over the weekend!
+
+
+### Day 84: March 27, 2017
+
+**Today's Progress**: Did not get to code. Got sick! :(
+
+**Thoughts**: Hoping to make up for this over the weekend!
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 85: March 28, 2017
+
+**Today's Progress**: Styling Pomodoro App. Created necessary bootstrap rows, columns, and divs. Going for a minimalist look
+
+**Thoughts**: This was a big breakthrough for me. I think I was thinking about the project way too hard. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 86: March 29, 2017
+
+**Today's Progress**: Removed constructor methods and added the methods to the object's prototype instead! 
+
+**Thoughts**: Attended an Meetup at Rithm School where we used prototype and I remembered I had to move my methods to the object's prototype. 
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
