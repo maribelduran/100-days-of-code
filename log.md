@@ -862,3 +862,47 @@
 **Thoughts**: Attended an Meetup at Rithm School where we used prototype and I remembered I had to move my methods to the object's prototype. 
 
 **Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 87: March 30, 2017
+
+**Today's Progress**: Continued styling Pomodoro App. Added a settings button to show and hide the Break and Sessions Length buttons. 
+
+**Thoughts**: Create two equal columns of col-xs-6. Then created a row within each of the two col-xs-6's and added 4 columns of size col-xs-3. This gave me a total of 8 columns needed for Boostrap's 12 column layout.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 88: March 31, 2017
+
+**Today's Progress**: Continued styling Pomodoro App. Added a settings button to show and hide the Break and Sessions Length buttons
+
+**Thoughts**: Want to have the Break and Sessions length options pop up on a menu instead of having it within the nav element.
+
+**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 89: April 1, 2017
+
+**Today's Progress**: Did not get to code.
+
+**Thoughts**:  Will make up for this soon.
+
+
+### Day 89: April 2, 2017
+
+**Today's Progress**: Added font awesome icons to Settings and Reset button and tested boostrap column layouts.
+
+**Thoughts**: Took me some time to remember how to embed the font awesome icons. Looked through previous projects and realized I am going to use the same layout as the Weather App in completed a while back.
+
+
+### Day 90: April 3, 2017
+
+**Today's Progress**: Updated color schema. Brainstormed a way to show the settings options.
+
+**Thoughts**: Found a good example of creating a popup menu to allow changing settings. 
+
+
+
+
