@@ -722,7 +722,7 @@
 **Today's Progress**: Started the Pomodoro Timer App Project!
 **Thoughts**: Started looking into what the functionality of the pomodoro app and the use cases that I will be using. Created both a Trello project and Pinterest board to set/get ideas.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
@@ -731,8 +731,7 @@
 **Today's Progress**: Worked on the model layer of my Pomodoro Timer App.
 **Thoughts**: Now that i have a better idea of what the functionality for this app, I created a timer object that contains the basic data needed. 
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
-
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 73: March 16, 2017
@@ -741,7 +740,7 @@
 
 **Thoughts**: Started figuring out how the setInterval function works. Looks like I will need to keep a record of the returne ID in order to stop the function.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
@@ -751,7 +750,7 @@
 
 **Thoughts**: Realized that setInterval should be called by the controller so that it could control when to stop the timer. The model should only keep the ID for the returned setInterval value. This helped me realize the power of the controller and to try to keep consistency between my projects.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
@@ -761,7 +760,7 @@
 
 **Thoughts**: Attended an FCC Meetup to code along other FCC members. I continued testing my controller.startTimer and controller.stopTimer which call setInterval() and clearInterval(), respectively. Learned more about JS prototypes because I realized that I needed to different Timers, but both having similar data types. That's when I realized I needed to use a constructor and add methods through the object's prototype. This was a huge discovery for me! Everything that I have been learning is starting to come together and make more sense :)
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 76: March 19, 2017
@@ -770,7 +769,7 @@
 
 **Thoughts**: Had to decide if I wanted to create the new Break and Session timer objects after the button Start has been pressed or as soon as the application started. I decided to create both timers as soon as the application started and modify any changes the users made to the timer's properties.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
@@ -780,7 +779,7 @@
 
 **Thoughts**: Created buttons that would decrease and or increase both the Session and Break lengths. This will be a moved to a popup menu when the Settings button is clicked. 
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 78: March 21, 2017
@@ -789,7 +788,7 @@
 
 **Thoughts**: Continued working a bit on the functionailty because I got stuck on the design aspect of the project.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
@@ -799,7 +798,7 @@
 
 **Thoughts**: Hopefully going on vacation to a new place will help :)
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 80: March 23, 2017
@@ -808,7 +807,7 @@
 
 **Thoughts**: Wanted a way for the user to see how many Sessions were completed even though that wasn't part of the use case. 
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
@@ -818,7 +817,7 @@
 
 **Thoughts**: Counter for sessions completed was not updating properly, but fixed by consoling out the actual element. Fixed reset button functionality to set the counter for sessions completed back to 0.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 82: March 25, 2017
@@ -827,7 +826,7 @@
 
 **Thoughts**: Still having a little road block on the design aspect of the project, but I figured to could clean up my code.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 83: March 26, 2017
@@ -843,7 +842,7 @@
 
 **Thoughts**: Hoping to make up for this over the weekend!
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 85: March 28, 2017
@@ -852,7 +851,7 @@
 
 **Thoughts**: This was a big breakthrough for me. I think I was thinking about the project way too hard. 
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 86: March 29, 2017
@@ -861,7 +860,7 @@
 
 **Thoughts**: Attended an Meetup at Rithm School where we used prototype and I remembered I had to move my methods to the object's prototype. 
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 ### Day 87: March 30, 2017
@@ -870,7 +869,7 @@
 
 **Thoughts**: Create two equal columns of col-xs-6. Then created a row within each of the two col-xs-6's and added 4 columns of size col-xs-3. This gave me a total of 8 columns needed for Boostrap's 12 column layout.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
@@ -880,7 +879,7 @@
 
 **Thoughts**: Want to have the Break and Sessions length options pop up on a menu instead of having it within the nav element.
 
-**Link to github:** [Javascript Caculator](https://github.com/maribelduran/pomodoro-timer)
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
@@ -890,12 +889,34 @@
 
 **Thoughts**: Took me some time to remember how to embed the font awesome icons. Looked through previous projects and realized I am going to use the same layout as the Weather App in completed a while back.
 
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
 
 ### Day 90: April 2, 2017
 
 **Today's Progress**: Updated color schema. Brainstormed a way to show the settings options.
 
 **Thoughts**: Found a good example of creating a popup menu to allow changing settings. 
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 91: April 3, 2017
+
+**Today's Progress**: Added range sliders for my sessionLength and breakLength settings. Just found out about bootstrap's modal. 
+
+**Thoughts**: Found a good example of a popup menu from someone elses Pomodoro Timer. Bootstrap modal plugin is a dialog box/popup window that is displayed on top of the current page. I am going to add my range sliders into this menu. This gave me the opportunity to learn a bit more about the different types of HTML: text, range, button, url, etc.
+
+
+### Day 92: April 4, 2017
+
+**Today's Progress**: 92&93: Continued working on Input range sliders for the Settings Popup menu. 
+
+**Thoughts**: I had to update the way the timer 
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
 
 
 
