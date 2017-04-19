@@ -908,13 +908,65 @@
 **Thoughts**: Found a good example of a popup menu from someone elses Pomodoro Timer. Bootstrap modal plugin is a dialog box/popup window that is displayed on top of the current page. I am going to add my range sliders into this menu. This gave me the opportunity to learn a bit more about the different types of HTML: text, range, button, url, etc.
 
 
+
 ### Day 92: April 4, 2017
 
 **Today's Progress**: 92&93: Continued working on Input range sliders for the Settings Popup menu. 
 
-**Thoughts**: I had to update the way the timer 
+**Thoughts**: I had to update the way the system generated the time selected for a session or break timer. Before I would get the currrent value of the session and break timers on the html page. However, if someone moved the range sliders, but then clicked Cancelled, I had to find a better way to get the minutes that were originally selected for the current running timer.
 
 **Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 93: April 5, 2017
+
+**Today's Progress**: Made code more readable. 
+
+**Thoughts**: Finished implementing the Settings Popup menu. Cleaned up the code a bit.
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 94: April 6, 2017
+
+**Today's Progress**: Tried to find a good circular canvas progress bar. 
+
+**Thoughts**: Tried to implement a few canvas progress bars, but they were limiting the size of the circle. This provided me the opportunity to learn a bit more about canvases and some limitations.
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 95: April 7, 2017
+
+**Today's Progress**: Contineud testing different circular canvas progress bar. Continued styling
+
+**Thoughts**: Still having trouble finding a good circular canvas progress bar so I continued styling the app.
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 96: April 8, 2017
+
+**Today's Progress**: Worked on progress bar layout and attended a NodeJS meetup in Oakland!
+
+**Thoughts**: I found a good svg circular progress bar that allowed me to create a large circle. I found that I had to absolute position the circle so that I could put the time and play button elements on top of the circle. I was ablen to use the z-index property to get this to work!
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 97: April 10, 2017
+
+**Today's Progress**: Updated a few methods to get the circular progress bar to be fully functional.
+
+**Thoughts**: The circular progress bar needed a percentage to set the progress. 0% to 100%. I had to update the timer object to contain a property of timeElapsed. This is equal to (seconds - secondsLeft)/seconds. I also had to add new view methods and update some controller methods.
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+
 
 
 
