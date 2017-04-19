@@ -966,7 +966,32 @@
 **Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
+### Day 98: April 11, 2017
 
+**Today's Progress**: Added 8 svg circles to represent number of sessions completed. 
+
+**Thoughts**: Addded session ids for all the circle elements. Also added a "completed" css class to represent the color a circle should be when a session is completed.
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+### Day 99: April 12, 2017
+
+**Today's Progress**: Troubleshooted the horizontal overflow that was occuring on mobile devices.
+
+**Thoughts**: This issue took me all da to figure out. The issue was that the screen was moving left and right when dragged because there was an iamge or element that was wider than the viewport. I ended up finding out that it was the 8 circular svg elements To fix this, by giving the svg elements a definite height and width instead of using 100%. Also did a few styling updates to get it to align with the other rows.
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
+
+
+
+### Day 100: April 13, 2017
+
+**Today's Progress**: Completed the Pomodoro Timer! 
+
+**Thoughts**: Added a footer, some facebook and twitter meta tags. Shared with the twitter community! So happy that I commited myself to this challenge! 
+
+**Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
 
 
