@@ -993,6 +993,27 @@
 
 **Link to github:** [Pomodoro Timer](https://github.com/maribelduran/pomodoro-timer)
 
+### I'M CONTINUING LOGGING WHAT I'M DOING WITH ANYTHING THAT HAS TO DO WITH MY SOFTWARE DEVELOPMENT JOURNEY WHILE I'M ON THE JOB HUNT. THIS WILL KEEP ME MOTIVATED AND LET ME ZOOM OUT TO SEE THAT I'M DOING WORK AND LEARNING EVERY DAY EVEN THOUGH SOMETIMES IT'S NOT VISIBLE (I.E COMMITING ON GITHUB)
+
+### Day 101: October 7, 2017
+
+**Today's Progress** : Finished Weebly cover letter, updated LinkedIn with projects, and worked on Eloquent JS Ch.9 Reg Expression Questions
+
+**Thoughts**: Even though I was feeling sick today, I finished my cover letter and updated my LinkedIn with projects. Since I was sick, I did some work that didn't require too much thought and then took a break. At the end of the night, I worked on the regex expressions for Eloquent JS chapter 9. I have to make sure I take care of myself first than anything so I can do the best work.
+
+**Link to LinkedIn:** [LinkedIn](https://www.linkedin.com/)
+
+
+### Day 102: October 8, 2017
+
+**Today's Progress** : 
+
+**Thoughts**: 
+
+**Link to LinkedIn:** [LinkedIn](https://www.linkedin.com/)
+
+
+
 
 
 
