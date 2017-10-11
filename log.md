@@ -1006,11 +1006,37 @@
 
 ### Day 102: October 8, 2017
 
-**Today's Progress** : 
+**Today's Progress**: Looked at more job posts. Created Eloquent JS repo and finished reg expression questions.
 
-**Thoughts**: 
+**Thoughts**: Spent Sunday night looking over job posts and working on eloquent JS repo. Also signed up for two meetups that will help me get setup for open source contributions!
 
 **Link to LinkedIn:** [LinkedIn](https://www.linkedin.com/)
+
+### Day 102: October 8, 2017
+
+**Today's Progress**: Looked at more job posts. Created Eloquent JS repo and finished reg expression questions.
+
+**Thoughts**: Spent Sunday night looking over job posts and working on eloquent JS repo. Also signed up for two meetups that will help me get setup for open source contributions!
+
+**Link to eloquent-js github repo:** eloquent-js github repo](https://github.com/maribelduran/eloquent-js-exercises)
+
+### Day 103: October 9, 2017
+
+**Today's Progress**: Looked at more job posts and drafted Lyft cover letter.
+
+**Thoughts**: Monday morning was so hard to wake up but I did it and looked over my saved job posts. Also skimmed through AngelList jobs. Getting the ball rolling!
+
+
+### Day 104: October 10, 2017
+
+**Today's Progress**: Submitted Lyft cover letter, phone conversation for TA position, started two more cover letters, and created repo for TimeStamp Microservice.
+
+**Thoughts**: Tuesday's are always hard for me, but I think I did a good job at keeping myself busy. Working from home really helped today. MY LYFT COVER LETTER WAS ON FIRE! Also excited that I was able to setup two cover letters for tomorrow and my github repo for my first backend project.
+
+**Link to timestamp-microservice repo:** timestamp-microservice github repo](https://github.com/maribelduran/timestamp-microservice)
+
+
+
 
 
 
