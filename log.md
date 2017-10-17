@@ -1035,6 +1035,68 @@
 
 **Link to timestamp-microservice repo:** timestamp-microservice github repo](https://github.com/maribelduran/timestamp-microservice)
 
+### Day 105: October 11, 2017
+
+**Today's Progress**: Worked on Extole's Cover Letter. Attended Weekly Civic Hack Night at Code For America
+
+**Thoughts**: Met team members from the Resiliency Map project and excited to start contributing!
+
+**Link to resilience-map repo:** resilience-map github repo](https://github.com/maribelduran/resilience-map)
+
+
+### Day 107: October 12, 2017
+
+**Today's Progress**: Submitted my Extole Fronte End Cover Letter. Read Eloquent Javascript Chapter. 12
+
+**Thoughts**: Moving forward! Not giving up :)
+
+
+### Day 108: October 13, 2017
+
+**Today's Progress**: Read Eloquen Javascript and saved potential jobs on Angel list. 
+
+**Thoughts**: Had a busy evening but managed to be productive in the morning! Then worked on the Chapter 13 exercises when I got home.
+
+**Link to eloquent-js repo:** eloquent-js github repo]https://github.com/maribelduran/eloquent-js-exercise)
+
+
+
+### Day 109: October 14, 2017
+
+**Today's Progress**: Mom visting and spend all day with her.  
+
+**Thoughts**: Family is special and should make time for them as much as possible. Gave me time to take a break from everything. 
+
+
+### Day 110: October 15, 2017
+
+**Today's Progress**: Looked through Open Source projects while Nate was driving. 
+
+**Thoughts**: Managed to do something towards researching even while being busy. 
+
+
+### Day 111: October 16, 2017
+
+**Today's Progress**: Signed up for Hacktoberfest and found an open source project to contribute to!!
+
+**Thoughts**: Was able to give owner of repo some feedback. He replied back with a thank you and also asked me if I wanted to work on one of the issues he just opened! I took it! That night, I worked on forking the repo, reinstalling node on my comp, installing yarn and jest.
+
+**Link to ganon repo:** ganon github repo]https://github.com/maribelduran/ganon)
+
+### Day 112: October 17, 2017
+
+**Today's Progress**: Created my first pull request (to someone else's project that wasn't a bot) and my changes were merged :))
+
+**Thoughts**: I was able to fix the remainder method and verify that it passed the tests. Then I created a skeleton method called firstUniqueChar so that someone else can work on and created tests for this method. Super excited to have been able to create tests for my code! Love jest!
+
+**Link to ganon repo:** ganon github repo]https://github.com/maribelduran/ganon)
+
+
+
+
+
+
+
 
 
 
