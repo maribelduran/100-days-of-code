@@ -5,7 +5,7 @@
 **Today's Progress:**
 * Submitted solution to a take home test that consisted of merging log sources
 * Researched FrontEnd Masters courses
-* Worked on a few CodeWars Problems
+* Worked on 2 CodeWars Problems
 * Replied to recruiter emails
 
 
@@ -17,5 +17,6 @@ my best and it was good practice!
 
 
 **Link to practice problem:** [Friend or Foe?](http://www.codewars.com/kata/friend-or-foe/train/javascript)
+**Link to practice problem:** [Duplicate Encoder](http://www.codewars.com/kata/duplicate-encoder/train/javascript)
 
 
