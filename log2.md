@@ -85,6 +85,8 @@
 
 **Today's Progress:**
 * Continued The Coding Interview Bootcamp: Algorithms + Data Structures Course
+* Listened to Syntax episode: Our Workflows: Design, Development, Git, Deployment
+* Listened to Syntax episode; How To Get Better at Debugging
 
 **Thoughts:** 
 * Got really stuck with one of the Matrix problem, but ended up figuring it out. I'm excited that I'm starting to see how I can implement algorithms recursively. 
@@ -95,6 +97,7 @@
 
 **Today's Progress:**
 * Continued The Coding Interview Bootcamp: Algorithms + Data Structures Course
+* Read Algorithms To Live By: The Computer Science of Human Decision
 * Sent availablity to recruiter
 
 **Thoughts:** 
