@@ -102,3 +102,22 @@
 
 **Thoughts:** 
 * Having a fun time reviewing the different data structures and implementing them.
+
+
+### Day 13: Tuesday July 9, 2018
+
+**Today's Progress:**
+* he Coding Interview Bootcamp: Algorithms + Data Structures Course- Building Twitter - Design Questi0n
+* The Coding Interview Bootcamp: Algorithms + Data Structures Course- Creating an Event System
+* Attempted to implement Pomodoro Timer from scratch
+* Implemented Podomoro Timer on Codepen from scratch
+* Reviewed Web Performance Tips from Syntax
+* Started Cloudflare Study Guide
+* Reviewed mongoDB replica set and sharding.
+* Reviewd horizontal scaling means adding more servers. This means that the data needs to be spread acrosss the servers
+
+**Thoughts:** 
+* Going through thte Building Twitter - Design Question helped me get comfortable with answering questions about database design as well as what I would be looking in a framework instead of specifying a particular framework to use for my solution. I also attempted to develop a widget - Pomodoro Timer on paper which was pretty hard. I decided to first get the main HTML layout. Then pseudocode the JS functionality. If given time, then I woud work ont the CSS. This was a bit overwhelming, but got through it. I then went on to implementing it on Codepen. Again, overwhelming, but got the basic functionality and layout down. It will get easier as I keep doing these every day. Overall today was alot of information and new ideas to take it. I'm excited to continue learning tomorrow and practice so that I can feel more comfortable onsite.
+
+
+
