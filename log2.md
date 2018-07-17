@@ -173,11 +173,25 @@ Went over some of Cloudflare's interview questions on Glasdoor, but there wasn't
 **Today's Progress:**
 * CSS Mockup Implemenetation
 * Systems Design eposides on Syntax podcast.
+* Wrote down my workflow
 * Read ALgorithms to Live By - (caching)
 
 
 **Thoughts:** 
 This morning I woke up and no time was wasted. I implemented a 1) perflecty aligned box within a container 2) 6 flexable boxes 3) a mobile responsive navbar 4) a mobile responsive navbar with brand logo 5) simple page - header, aside, main, aside, and footer. I also read about caching on Algorithms to Live By and the authors again explain it so clear. 
+
+
+## Day 20: Tuesday July 17, 2018
+
+**Today's Progress:**
+* Attempted to design the search functionality in Pinterest. 
+* Attempted to design Bitly
+* Researched Google Analytics
+* Researched SEO Best Practices
+* Answered Front End Dev Typical Questions
+
+
+**Thoughts:** 
 
 
 
