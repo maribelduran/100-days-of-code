@@ -119,5 +119,76 @@
 **Thoughts:** 
 * Going through thte Building Twitter - Design Question helped me get comfortable with answering questions about database design as well as what I would be looking in a framework instead of specifying a particular framework to use for my solution. I also attempted to develop a widget - Pomodoro Timer on paper which was pretty hard. I decided to first get the main HTML layout. Then pseudocode the JS functionality. If given time, then I woud work ont the CSS. This was a bit overwhelming, but got through it. I then went on to implementing it on Codepen. Again, overwhelming, but got the basic functionality and layout down. It will get easier as I keep doing these every day. Overall today was alot of information and new ideas to take it. I'm excited to continue learning tomorrow and practice so that I can feel more comfortable onsite.
 
+### Day 14: Wednesday July 10, 2018
+
+**Today's Progress:**
+* The Coding Interview Bootcamp: Algorithms + Data Structures Course
+* Attended Code For SF Meetup
+* Read Algorithms To Live By - (Sorting part was awesome)
+* Phone Call with Instacart
+
+**Thoughts:** 
+Loved the section on Sorting algorithms in Algorithms to Live By Highly recommend this book to every developer. Also continued through the Coding Interview Bootcamp on Udemy. 
+
+### Day 15: THursday July 11, 2018
+
+**Today's Progress:**
+* The Coding Interview Bootcamp: Algorithms + Data Structures Course
+* Zumme Pizza Dev Test
+* Read Algorithms To Live By
+
+**Thoughts:** 
+Didn't complete the whole Zumme Pizza De test because I ran out of time! The first question pretty much was the wedge question that we reviewed on Udemy so it was awesome to apply what I had learned on a test. THe second question consisted of maing multiple making HTTP requests to a server. I knew I was supposed to use promises to get the requests back in order, but ran out of time. The third question, I know I could have completed if I knew I could go back to the previous problems. But that's ok! I gave it my best shot and next time I will be even more prepared.
+
+### Day 16: Friday July 13, 2018
+
+**Today's Progress:**
+* The Coding Interview Bootcamp: Algorithms + Data Structures Course
+* Pinterest Technical Phone Screen
+
+**Thoughts:** 
+The Pinterest phone screen was not bad at all! I was supposed to implement a function that receives data from s3. The hardest part here was trying to figure out how big the json string coming in would be using slice. In the end, we figured it out and I made sure to talk through my thought process even if I was stuck. I'm happy with my progress and know that this practice will pay off soon. Just gotta keep pushing! Through the Udemy course, I implemented a binary search tree and that was a little hard! 
+
+
+### Day 17: Saturday July 14, 2018
+
+**Today's Progress:**
+* Completed The Coding Interview Bootcamp: Algorithms + Data Structures Course!!
+
+**Thoughts:** 
+The last bit of the Udemy course consisted of implemnting sorting algorithms. Some of them weren't too bad. The merge sort implementation was not hard to implement, but difficult to understand the recursiveness. I loved this course so much and looking forward to using everything that I have learned on my next interview.
+
+
+### Day 18: Sunday July 15, 2018
+
+**Today's Progress:**
+* Reviewed Cloudflare Glassdoor Questions
+* Codewars Problem
+
+**Thoughts:** 
+Went over some of Cloudflare's interview questions on Glasdoor, but there wasn't much context for frontend devs. I'm going to focus on reviewing systems architecture design and APIs type related questions.
+
+## Day 19: Monday July 16, 2018
+
+**Today's Progress:**
+* CSS Mockup Implemenetation
+* Read ALgorithms to Live By - (caching)
+
+**Thoughts:** 
+This morning I woke up and no time was wasted. I implemented a 1) perflecty aligned box within a container 2) 6 flexable boxes 3) a mobile responsive navbar 4) a mobile responsive navbar with brand logo 5) simple page - header, aside, main, aside, and footer. I also read about caching on Algorithms to Live By and the authors again explain it so clear. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
