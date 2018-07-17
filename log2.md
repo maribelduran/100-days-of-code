@@ -172,7 +172,9 @@ Went over some of Cloudflare's interview questions on Glasdoor, but there wasn't
 
 **Today's Progress:**
 * CSS Mockup Implemenetation
+* Systems Design eposides on Syntax podcast.
 * Read ALgorithms to Live By - (caching)
+
 
 **Thoughts:** 
 This morning I woke up and no time was wasted. I implemented a 1) perflecty aligned box within a container 2) 6 flexable boxes 3) a mobile responsive navbar 4) a mobile responsive navbar with brand logo 5) simple page - header, aside, main, aside, and footer. I also read about caching on Algorithms to Live By and the authors again explain it so clear. 
